@@ -1,2 +1,4 @@
 # hello-world
-Place to store ideas and resources.
+A place to store ideas and resources.
+
+At long last I'm trying github!
